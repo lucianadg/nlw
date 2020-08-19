@@ -30,7 +30,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 ---
 
 <h4 align="center">
-    Feito com 💜 by <a href="" target="_blank">Luciana Duarte Guimarães</a>
+    Feito com 💜 by <a href="https://www.linkedin.com/in/luciana-d-guimaraes/" target="_blank">Luciana Duarte Guimarães</a>
 </h4>
 
 
