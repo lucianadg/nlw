@@ -1,0 +1,42 @@
+    :root{ /* raiz do nosso documento*/
+        --title-color: #322153; /* aplicar cor automática usando um atalho*/
+        --primary-color: #34cb79;
+    }
+    
+    * { /* referencia todos os selores/elementos */
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box ;
+    } 
+    
+    html {
+        font-family:  Roboto, sans-serif; /* vai puxar a fonte*/
+    } 
+
+    body{
+        background: #f0f0f5;
+        -webkit-font-smoothing: antialiased;
+
+    }
+
+    a { /* tag a */
+
+        text-decoration: none;
+
+    }
+
+    h1, h2, h3, h4, h5, h6 {
+
+        font-family: Ubuntu, sans-serif;
+        color: var(--title-color);
+
+}
+
+    /*BOX MODEL 
+    É o modelo de caixa, toda caixa tem:
+    largura, altura,espaçamento, preenchimento,
+    bordas, cor, fundo, maneira que é vista pelo html (display)
+    posicionamento, alinhamentos */
+
+    
+  
