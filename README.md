@@ -4,7 +4,7 @@
 
 ## :bookmark: Sobre
 
-O <strong>Ecoleta</strong>é um projeto Open Source desenvolvido na semana Next Level Week (1.0) da Rocketseat (https://rocketseat.com.br/) para ajudar pessoas a encontrarem pontos de coleta para reciclagem.
+O <strong>Ecoleta</strong> é um projeto Open Source desenvolvido na semana Next Level Week (1.0) da Rocketseat (https://rocketseat.com.br/) e ministrado por Mayk Brito. 
 
 ## 🚀 Tecnologias
 
@@ -17,11 +17,13 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Ecoleta é um marketplace que ajuda pessoas a encontrarem pontos de coleta de resíduos de forma eficiente.
+O Ecoleta é um marketplace que ajudar pessoas a encontrarem pontos de coleta de resíduos de forma eficiente. 
+
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [desse link](<https://www.figma.com/file/Byw4X5etg8VCmezueyhzkC/Ecoleta-(Starter)?node-id=136%3A546>). Lembrando que você precisa ter uma conta no [Figma](http://figma.com/) para acessá-lo.
+Você pode visualizar o layout do projeto através [desse link](<https://www.figma.com/file/Byw4X5etg8VCmezueyhzkC/Ecoleta-(Starter)?node-id=136%3A546>). Lembrando que você precisa ter uma conta no [Figma](http://figma.com/) para acessá-lo
+
 
 ## :memo: License
 
