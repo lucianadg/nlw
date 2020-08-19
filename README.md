@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Ecoleta" title="Ecoleta" src="/ecoleta.svg" width="220px" />
+    <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/banner.png" />
 </h1>
 
 <p align="center">
